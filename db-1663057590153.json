@@ -1,0 +1,72 @@
+{
+  "project": [
+    {
+      "id": 1,
+      "ProjectName": "Bridge Construction",
+      "Budget": 200000,
+      "ProjectManager": "Ram Kishan",
+      "StartDate": "27/12/2020",
+      "SiteAddress": "#25 Rampur up",
+      "Railwayjuction": "Rampur junction",
+      "suplier1": "cement suplier",
+      "contactperson": "Babulal",
+      "phone": 4798745,
+      "email": "babulal@gmail.com",
+      "EndDate": "02/10/2022",
+      "ProjectStatus": "Bhumipuja completed",
+      "ProjectStatus1": "Foundation completed",
+      "ProjectStatus2": "cement orderd",
+      "ProjectStatus3": "Iron recived"
+    },
+    {
+      "ProjectName": "road construction",
+      "Budget": "34543",
+      "ProjectManager": "shobhit tiwari",
+      "StartDate": "2021-10-06",
+      "SiteAddress": "naini prayagraj utter pradesh",
+      "Railwayjuction": "prayagraj",
+      "suplier1": "cement",
+      "contactperson": "kushal mishra",
+      "phone": "986734453234",
+      "email": "kushal@gmail.com",
+      "EndDate": "2022-09-28",
+      "ProjectStatus": "Bhumiyo completed, Foundetion completed,jally completed,",
+      "RailwayJuction": "naini",
+      "ContactPerson": "kushal mishra",
+      "id": 2
+    },
+    {
+      "ProjectName": "abc",
+      "Budget": "20000",
+      "ProjectManager": "kushal",
+      "StartDate": "2022-09-02",
+      "SiteAddress": "meja",
+      "Railwayjuction": "",
+      "suplier1": "cement",
+      "contactperson": "",
+      "phone": "76878967666",
+      "email": "pravin@gmail.com",
+      "EndDate": "2022-09-29",
+      "ProjectStatus": "Bhumiyo completed, Foundetion completed,jally completed,",
+      "RailwayJuction": "mejaroad",
+      "ContactPerson": "kushal mishra",
+      "id": 3
+    },
+    {
+      "ProjectName": "home construction",
+      "Budget": "34444",
+      "ProjectManager": "shobhit tiwari",
+      "StartDate": "2022-09-02",
+      "SiteAddress": "meja prayagraj",
+      "Railwayjuction": "naini",
+      "suplier1": "cement",
+      "contactperson": "kushal",
+      "phone": "8798773445",
+      "email": "kushal@gmail.com",
+      "EndDate": "2022-09-09",
+      "ProjectStatus": "Bhumiyo completed, Foundetion completed,jally completed,",
+      "id": 4
+    }
+    
+  ]
+}
